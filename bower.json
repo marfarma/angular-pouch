@@ -9,6 +9,6 @@
   ],
   "dependencies": {
     "pouchdb-nightly.min": "http://download.pouchdb.com/pouchdb-nightly.min.js",
-    "angular": "~1.0.7"
+    "angular": "~1.2.0-rc.2"
   }
 }
